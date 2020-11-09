@@ -1,0 +1,56 @@
+
+/*TABLET DEVICE*/
+@media only screen and (max-width:768px) { 
+.navbar-default .navbar-nav > li > a {
+margin-top: 10px;
+padding: 8px;
+}  
+.navbar-brand img {
+    margin-left: 10px;
+}  
+.btn-promotion-bg {margin-top: 10px;}
+}
+
+/*MOBILE 480PX DEVICE*/
+@media only screen and (max-width:480px) { 
+.section-title h2 {
+  font-size: 20px;
+  margin-top: 0;
+  padding: 0 5px;
+  text-transform: uppercase;
+}
+.menu-top { 
+background-color: #fff; 
+color: #fff !important;
+margin-left: 0px; }
+.navbar-default .navbar-nav > li > a { color: #313131  !important }
+.actions {margin-bottom: 30px;}  
+.single_feature {
+  margin-bottom: 30px;
+  padding: 0 20px;
+}
+.single_footer {
+  margin-bottom: 30px;
+}
+}
+
+/*IPHONE 375PX DEVICE*/
+@media only screen and (max-width:375px) { 
+
+}
+
+/*MOBILE 360PX DEVICE*/
+@media only screen and (max-width:360px) { 
+
+}
+
+/*MOBILE 320PX DEVICE*/
+@media only screen and (max-width:320px) { 
+
+}
+
+
+
+
+
+
